@@ -12,7 +12,8 @@ This is to provide bluetooth functionality to the Eggtimer RX Module, as HiPR ha
 2. Connect Pin 1 (RX) on the Pico to PGM TX on the Eggtimer
 3. Connect GND on the Pico to PGM GND on the Eggtimer
 4. Connect 3V3 on the Pico to PGM 3V3 on the Eggtimer
-5. Copy this code over to the Pico
+5. Power the Pico (3AAA battery pack always works well)
+6. Copy this code over to the Pico
 
 ## Using
 For iPhone use the nRF Connect App
