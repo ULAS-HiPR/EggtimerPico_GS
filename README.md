@@ -24,4 +24,5 @@ For iPhone use the nRF Connect App
 4. The data recvied (seen in the 'Value' section) is 'Latitiude, Longitude, seconds since last gps fix', if no radio data is recvied, 'no data' will appear
 
 > [!WARNING]
-> Arhived
+> This project is archived, and is no longer actively supported.
+> Contact us for more details.
